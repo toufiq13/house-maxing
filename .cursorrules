@@ -47,7 +47,7 @@
   - [x] Resend for emails
   - [x] Uploadthing for file uploads
   - [x] Prisma ORM
-  - [ ] PostgreSQL database
+  - [x] PostgreSQL database
   - [x] NextAuth.js beta for authentication
   - [x] Stripe for payments
 
